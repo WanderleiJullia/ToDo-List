@@ -1,0 +1,109 @@
+.botao{
+    margin-left: 45%;
+    background: rgb(222, 152, 152);
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    line-height: 3.0;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container img{
+    margin-right: 10px;
+    
+}
+
+.p1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 20px;
+    font-weight: 200; 
+}
+
+
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Alinha os itens ao topo */
+    gap: 20px; /* Espaço entre os formulários */
+}
+
+.form-wrapper {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; /* Largura dos formulários */
+}
+
+.form-wrapper h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column; /* Alinha os elementos verticalmente */
+}
+
+label {
+    margin-bottom: 8px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    background-color: #5cb85c;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background-color: #4cae4c;
+}   
+
+.botao2{
+        margin-left: 45%;
+        background: rgb(222, 152, 152);
+        color: aliceblue;
+        border-radius: 5px;
+        font-size: 20px;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        line-height: 3.0;
+    }
