@@ -24,3 +24,5 @@ Montagem de um ToDo List, para facilitar as atividades do dia-a-dia.
 
 
 ![image](https://github.com/WanderleiJullia/ToDo-List/assets/144744092/27353d9c-0631-492a-b89d-16de0690d20e)
+
+### Jullia Santos Wanderlei - RA 234822 
